@@ -61,6 +61,12 @@ ul {
     margin: 48px 0;
 }
 
+ul li div.icon {
+    height: 17px;
+    width: 17px;
+    margin-right: 5px;
+}
+
 ul li a {
     height: 53px;
     display: flex;
